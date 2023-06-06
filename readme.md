@@ -1,6 +1,6 @@
 # Symbiome
 
-* Developping bat counter application
+* Developping a bat counter application
 * Measuring infected area in beet fields
 
 # Working on the Reunion Island
@@ -9,6 +9,6 @@
 
 # ISEN Lille
 
-Learning the basics
+Diplôme d'ingénieur, Master degree in computer science
 
 
