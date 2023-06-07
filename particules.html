@@ -1,4 +1,56 @@
 <html>
     <p>particules</p>
     <canvas id="mon_canvas" width='1340', height='640', onclick='LeftClick(event);', oncontextmenu='RightClick(event); return false;'></canvas>
+    <script src="jquery.min.js'"></script>
+    <script src="canvas.js"></script>
+    <script src="field.js"></script>
+    <script src="Particule.js"></script>
+
+    <ul>
+          <li><a onclick='addPartPos(); return false;'>P+</a></li>
+          <li><a onclick='addPartNeg(); return false;'>P-</a></li>
+          <li><a onclick='addPart(); return false;'>25 prt</a></li>
+    </ul>
+      <script type='text/javascript'>
+
+        function addPartPos(){
+          particules.push(new Particule(Math.random() * canvas.width, Math.random() * canvas.height, 0, -0, '#da3c2b', 0.5));
+        }
+
+        function addPartXyP(x, y){
+           particules.push(new Particule(x, y, 0, -0, '#da3c2b', 0.5));
+        }
+
+        function addPartXyN(x, y){
+           particules.push(new Particule(x, y, 0, -0, '#526eae', -0.5));
+        }
+
+        function LeftClick(event) {
+           var posX;
+           var posY;
+           posX = event.clientX;
+           posY = event.clientY;
+           addPartXyP(posX,posY)
+        }
+
+        function RightClick(event){
+           var posX;
+           var posY;
+           posX = event.clientX;
+           posY = event.clientY;
+           addPartXyN(posX,posY); 
+           return(false);
+         }
+
+        function addPartNeg(){
+          particules.push(new Particule(Math.random() * canvas.width, Math.random() * canvas.height, 0, -0, '#526eae', -0.5));
+        }
+
+        function addPart(){
+          for(var i=0; i < 10; i++){
+            particules.push(new Particule(Math.random() * canvas.width, Math.random() * canvas.height, 0, -0, '#da3c2b', 0.5));
+            particules.push(new Particule(Math.random() * canvas.width, Math.random() * canvas.height, 0, -0, '#526eae', -0.5));
+          }
+        }
+    </script>
 </html>
