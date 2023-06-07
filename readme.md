@@ -13,8 +13,8 @@
 * Creation of an [open source library](https://pyrotor.readthedocs.io/en/latest/) to optimize any type of trajectories.
 * Optimizing code source execution using vectorisation, parallel computing, numba compilation and finally a cluster. 
 
-# ISEN Lille
+# [Junia](https://www.junia.com/en/)
 
-Diplôme d'ingénieur, Master degree in computer science
+Master degree (french Diplôme d'ingénieur) in computer science
 
 * 2016: [Particule simulation](/particules.html) using JavaScript, Taylor polynomials and Coulomb Law.
