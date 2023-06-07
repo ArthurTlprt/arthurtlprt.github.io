@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Arthur Talpaert Portfolio]
-description: [This is my personal portfolio.]
+description: [I enjoy production-oriented development as much as statistics. I have an irresistible desire to see projects moving to the real world, that is why I know how to prototype learning algorithms in a notebook as much as how to industrialize prototypes.]
 logo: https://media.licdn.com/dms/image/D4E35AQFegT3GYYwjsw/profile-framedphoto-shrink_400_400/0/1685442679971?e=1686729600&v=beta&t=w4cTK7oo7JaXgawjiR5Lmjo_JJ5PIONbWyo0SSSGnrU

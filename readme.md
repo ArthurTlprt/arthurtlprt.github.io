@@ -6,6 +6,10 @@
 # Data Prisme
 
 * Optimizing stock management using Deep Reinforcement Learning algorithm
+* Implementation of new models in production
+* Improvement of a simulation tool to validate a  model prototype. 
+* Set up of our own cluster to distribute our computations and data.  
+[Ray, MinIO, Sklearn, Scipy, Poltly, Ansible, Airflow, Drone CI, Pytorch]
 
 # [INRIA](https://www.inria.fr/en)
 
