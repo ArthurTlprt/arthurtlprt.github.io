@@ -9,7 +9,7 @@
 
 # INRIA
 
-Airplanes trajectory optimization to reduce CO2 emissions.
+[Airplanes trajectory optimization](https://www.inria.fr/fr/perf-ai-reduire-limpact-environnemental-du-trafic-aerien) to reduce CO2 emissions.
 Creation of an [open source library](https://pyrotor.readthedocs.io/en/latest/) to optimize any type of trajectories.
 
 # ISEN Lille
