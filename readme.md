@@ -12,4 +12,4 @@
 Diplôme d'ingénieur, Master degree in computer science
 
 
-[particules](https://github.com/ArthurTlprt/arthurtlprt.github.io/particules.html)
+[particules](particules.html)
