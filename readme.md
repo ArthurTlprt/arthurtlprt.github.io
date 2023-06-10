@@ -3,7 +3,7 @@
 * Developping a [bat counter](https://youtu.be/Rm1eJ3VMXbo) application
 * Measuring infected area in beet fields
 
-# Data scientist @ Data Prisme 2021-2023
+# Data scientist @ [Data Prisme](https://www.data-prisme.com) 2021-2023
 
 * Optimizing stock management using Deep Reinforcement Learning algorithm
 * Implementation of new models in production
@@ -11,7 +11,7 @@
 * Set up of our own cluster to distribute our computations and data.  
 [Ray, MinIO, Sklearn, Scipy, Poltly, Ansible, Airflow, Drone CI, Pytorch]
 
-# Data Engineer Consultant @ Orange 2021-2022 
+# Data Engineer Consultant @ [Orange](https://reunion.orange.com) 2021-2022 
 * Took part in the implementation of a data lake at Orange Reunion (mobile operator). 
 [Hadoop, Spark, Python, Hive, NetworkX]
 
