@@ -1,7 +1,7 @@
-# Symbiome
+# Symbiome: personal project
 
 * Developping a [bat counter](https://youtu.be/Rm1eJ3VMXbo) application
-* Measuring infected area in beet fields
+* Measuring infected area in beet fields using AI
 
 # Data scientist @ [Data Prisme](https://www.data-prisme.com) 2021-2023
 
