@@ -1,16 +1,15 @@
 <html>
-    <p>particules</p>
+    <p>Interact with some particules</p>
+    <ul>
+          <li><a onclick='addPartPos(); return false;'>add a P+</a></li>
+          <li><a onclick='addPartNeg(); return false;'>add a P-</a></li>
+          <li><a onclick='addPart(); return false;'>add many</a></li>
+    </ul>
     <canvas id="mon_canvas" width='1340', height='640', onclick='LeftClick(event);', oncontextmenu='RightClick(event); return false;'></canvas>
     <script src="/jquery.min.js"></script>
     <script src="/canvas.js"></script>
     <script src="/Particule.js"></script>
     <script src="/field.js"></script>
-
-    <ul>
-          <li><a onclick='addPartPos(); return false;'>P+</a></li>
-          <li><a onclick='addPartNeg(); return false;'>P-</a></li>
-          <li><a onclick='addPart(); return false;'>25 prt</a></li>
-    </ul>
       <script type='text/javascript'>
 
         function addPartPos(){
