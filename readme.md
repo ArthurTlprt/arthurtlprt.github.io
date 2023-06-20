@@ -18,7 +18,7 @@
 # Machine Learning Engineer @ [INRIA](https://www.inria.fr/en) 2019-2020
 
 [Airplanes trajectory optimization](https://www.inria.fr/fr/perf-ai-reduire-limpact-environnemental-du-trafic-aerien) to reduce CO2 emissions.
-* Creation of an [open source library](https://pyrotor.readthedocs.io/en/latest/) to optimize any type of trajectories. [See examples here](/test_plotly.html)
+* Creation of an [open source library](https://pyrotor.readthedocs.io/en/latest/) to optimize any type of trajectories. [See examples here](/pyrotor_examples.html)
 * Participation in a publication. [See preprint](https://arxiv.org/abs/2011.11820).
 * Optimizing code source execution using vectorisation, parallel computing, numba compilation and finally a cluster.
 [Python, Dash, Travis CI, Numba, Linux, Scikit-Learn]
