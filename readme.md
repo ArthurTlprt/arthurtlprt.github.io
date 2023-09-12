@@ -2,6 +2,7 @@
 
 * Developping a [bat counter](https://youtu.be/Rm1eJ3VMXbo) application
 * Measuring infected area in beet fields using AI
+![Alt Text](/beet_yellowing.png)
 
 # Data scientist @ [Data Prisme](https://www.data-prisme.com) 2021-2023
 
