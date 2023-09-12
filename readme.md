@@ -1,6 +1,7 @@
 # Symbiome: personal project
 
 * Developping a [bat counter](https://youtu.be/Rm1eJ3VMXbo) application
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rm1eJ3VMXbo/0.jpg)](https://youtu.be/Rm1eJ3VMXbo)
 * Measuring infected area in beet fields using AI
 ![Alt Text](/beet_yellowing.png)
 
