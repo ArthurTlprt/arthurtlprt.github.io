@@ -1,12 +1,3 @@
-# Symbiome: personal project
-
-* Developping a [bat counter](https://youtu.be/Rm1eJ3VMXbo) application
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rm1eJ3VMXbo/0.jpg)](https://youtu.be/Rm1eJ3VMXbo)
-
-* Measuring infected area in beet fields using AI
-![Alt Text](/beet_yellowing.png)
-
 # Data scientist @ [Data Prisme](https://www.data-prisme.com) 2021-2023
 
 * Optimizing stock management using Deep Reinforcement Learning algorithm
@@ -37,6 +28,12 @@
 * Creation of a Deep Learning model to automatically classify ads in order to target ads on the network. 
 * The AWS cloud (SageMaker) was used to earn the model, and the dataset was saved on S3.
 [Keras, AWS, S3, MySQL]
+
+# Symbiome: personal project
+
+* Measuring infected area in beet fields using AI
+![Alt Text](/beet_yellowing.png)
+* Developping a [bat counter](https://youtu.be/Rm1eJ3VMXbo) application
 
 # [Junia](https://www.junia.com/en/) 2014-2019
 
