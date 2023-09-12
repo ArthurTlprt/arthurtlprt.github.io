@@ -39,3 +39,6 @@
 Master degree (french Diplôme d'ingénieur) in computer science
 
 * 2016: [Particule simulation](/particules.html) using JavaScript, Taylor polynomials and Coulomb Law.
+* 2017: [Expression Recognition](https://github.com/ArthurTlprt/SentimentRecognition/blob/master/Demonstration.gif) using deep convolutional neural networks (Inception, Resnet...).
+Here you can see a demo.
+![Alt Text](https://github.com/ArthurTlprt/SentimentRecognition/blob/master/Demonstration.gif)
